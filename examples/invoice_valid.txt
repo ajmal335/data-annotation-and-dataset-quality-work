@@ -1,0 +1,7 @@
+Vendor: Synthetic Demo Supplies
+Invoice Number: DEMO-001
+Invoice Date: 2026-10-19
+Currency: PKR
+Subtotal: 1,000.00
+Tax: 160.00
+Total: 1,160.00

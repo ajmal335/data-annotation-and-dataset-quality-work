@@ -1,0 +1,6 @@
+Invoice Number: DEMO-002
+Invoice Date: 2026-02-30
+Currency: PKR
+Subtotal: 1,000.00
+Tax: 160.00
+Total: 1,100.00
